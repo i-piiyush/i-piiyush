@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-piiyush
 - 👀 I’m interested in coding,ui/ux designs
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning React
 
 
 <!---
