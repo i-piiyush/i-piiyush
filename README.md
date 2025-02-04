@@ -10,27 +10,12 @@ I'm passionate about coding and UI/UX design. Currently, I'm diving deep into Re
 
 ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-piiyush&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-
-![Piyush's GitHub Streak](https://streak-stats.demolab.com/?user=i-piiyush&theme=radical)
-
-## 🚀 Featured Projects
-
-Here are some of the projects I've been working on:
-
-- **Weather App**: A JavaScript application that provides real-time weather information.
-- **Sundown Studio Clone**: A CSS project replicating the Sundown Studio website design.
-- **Color Change**: A JavaScript project that changes colors based on user interaction.
-- **KeyCode Explorer**: An HTML project to explore key codes.
-- **Burger Website**: A CSS project for a burger-themed website.
-
-Feel free to explore these repositories to see my work in action.
 
 ## 📫 How to Reach Me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: [piyushcchabra3578@gmail.com](mailto:your-email@example.com)
+- LinkedIn: [Piyush's LinkedIn Profile](https://www.linkedin.com/in/piyush-chhabra)
+- Twitter: [@Piiyush_jsx](https://twitter.com/piiyush_jsx)
 
 ## 🎯 Current Focus
 
