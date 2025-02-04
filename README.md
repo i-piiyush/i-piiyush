@@ -13,8 +13,8 @@ I'm passionate about coding and UI/UX design. Currently, I'm diving deep into Re
 
 ## 📫 How to Reach Me
 
-- Email: [piyushcchabra3578@gmail.com](mailto:your-email@example.com)
-- LinkedIn: [Piyush's LinkedIn Profile](https://www.linkedin.com/in/piyush-chhabra)
+- Email: [piyushchhabra3578@gmail.com](mailto:piyushchhabra3578@gmail.com)
+- LinkedIn: [Piyush's LinkedIn Profile](https://www.linkedin.com/in/piyush-chhabra-552b8a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Twitter: [@Piiyush_jsx](https://twitter.com/piiyush_jsx)
 
 ## 🎯 Current Focus
@@ -25,7 +25,3 @@ I'm currently focused on:
 - Exploring advanced UI/UX design principles to create intuitive user interfaces.
 
 I'm always open to collaborating on interesting projects and discussing new ideas. Don't hesitate to reach out!
-
----
-
-*Note: The stats and streak cards are powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats).*
